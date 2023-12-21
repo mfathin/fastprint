@@ -63,7 +63,7 @@
 ## Tambah Produk
 
 -   Tambah Produk
-    ![](public/assets/img/Tambah_Data.png.png)
+    ![](public/assets/img/Tambah_Data.png)
 
 -   Tambah Produk Berhasil
     ![](public/assets/img/Tambah_Data_Berhasil.png)
