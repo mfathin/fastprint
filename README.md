@@ -52,22 +52,24 @@
 
 ## Halaman Utama
 
-![](public/assets/img/Halaman_Utama.png)
+-   Halaman Utama
+    ![](public/assets/img/Halaman_Utama.png)
 
 ## Search Bar
 
-![](public/assets/img/Search_Data.png)
+-   Search Bar
+    ![](public/assets/img/Search_Data.png)
 
 ## Tambah Produk
 
 -   Tambah Produk
-    ![](public/assets/img/Tambah_Produk.png)
+    ![](public/assets/img/Tambah_Data.png.png)
 
 -   Tambah Produk Berhasil
-    ![](public/assets/img/Tambah_Produk_Berhasil.png)
+    ![](public/assets/img/Tambah_Data_Berhasil.png)
 
 -   Tambah Produk Error
-    ![](public/assets/img/Tambah_Produk_Error.png)
+    ![](public/assets/img/Tambah_Data_Error.png)
 
 ## Edit Produk
 
