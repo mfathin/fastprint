@@ -1,6 +1,6 @@
 ## Halo, Selamat Datang
 
--   Ini Aplikasi Yang Saya Kerjakan Untuk Test.
+-   Ini Aplikasi Yang Saya Kerjakan Untuk Test Menggunakan Laravel Vite 10.
 
 ## Environment/env
 
