@@ -2,6 +2,10 @@
 
 -   Ini Aplikasi Yang Saya Kerjakan Untuk Test Menggunakan Laravel Vite 10.
 
+## Database
+
+-   Di aplikasi ini, saya menggunakan database mysql yang sudah saya lampirkan di folder test_fastprint\mysql.
+
 ## Environment/env
 
 -   .env terletak pada folder test_fastprint.

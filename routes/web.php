@@ -15,9 +15,17 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Menampilkan Seluruh Data Produk
 Route::get('/', [ProdukController::class, 'index'])->name('produk.index');
+
+// Menambah Data Produk
 Route::post('/produk/store', [ProdukController::class, 'store'])->name('produk.store');
-Route::delete('/produk/{id_produk}', [ProdukController::class, 'destroy'])->name('produk.delete');
+
+// Mengubah Data Produk
 Route::patch('/produk/{id_produk}', [ProdukController::class, 'update'])->name('produk.update');
 
+// Menghapus Data Produk
+Route::delete('/produk/{id_produk}', [ProdukController::class, 'destroy'])->name('produk.delete');
+
+// Mendapatkan Data Dari API Yang Telah Disediakan
 Route::get('/fetch-api', [FetchApi::class, 'fetchApi']);
