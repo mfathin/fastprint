@@ -50,13 +50,40 @@
 
 -   Tampilan ada di folder test_fastprint\public\assets\img.
 
-![Halaman Utama](public/assets/img/Halaman_Utama.png)
-![Search Bar](public/assets/img/Search_Data.png)
-![Tambah Produk](public/assets/img/Tambah_Produk.png)
-![Tambah Produk Berhasil](public/assets/img/Tambah_Produk_Berhasil.png)
-![Tambah Produk Error](public/assets/img/Tambah_Produk_Error.png)
-![Edit Produk](public/assets/img/Edit_Data.png)
-![Edit Produk Berhasil](public/assets/img/Edit_Data_Berhasil.png)
-![Edit Produk Error](public/assets/img/Edit_Data_Error.png)
-![Delete Produk](public/assets/img/Delete_Data.png)
-![Delete Produk Berhasil](public/assets/img/Delete_Data_Berhasil.png)
+## Halaman Utama
+
+![](public/assets/img/Halaman_Utama.png)
+
+## Search Bar
+
+![](public/assets/img/Search_Data.png)
+
+## Tambah Produk
+
+-   Tambah Produk
+    ![](public/assets/img/Tambah_Produk.png)
+
+-   Tambah Produk Berhasil
+    ![](public/assets/img/Tambah_Produk_Berhasil.png)
+
+-   Tambah Produk Error
+    ![](public/assets/img/Tambah_Produk_Error.png)
+
+## Edit Produk
+
+-   Edit Produk
+    ![](public/assets/img/Edit_Data.png)
+
+-   Edit Produk Berhasil
+    ![](public/assets/img/Edit_Data_Berhasil.png)
+
+-   Edit Produk Error
+    ![](public/assets/img/Edit_Data_Error.png)
+
+## Delete Produk
+
+-   Delete Produk
+    ![](public/assets/img/Delete_Data.png)
+
+-   Delete Produk Berhasil
+    ![](public/assets/img/Delete_Data_Berhasil.png)
